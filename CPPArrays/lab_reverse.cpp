@@ -1,3 +1,4 @@
+// This program reverses a sequence.
 #include "lab_reverse.h"
 
 #include <iostream>
@@ -5,6 +6,7 @@
 
 int main()
 {
+	int dummy=100;  //a dummy variable created
 	std::vector<int> sequence { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 };
 
 	std::vector<int> reversed = reverse( sequence );

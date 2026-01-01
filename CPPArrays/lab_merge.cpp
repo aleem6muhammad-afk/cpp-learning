@@ -5,6 +5,7 @@
 
 int main()
 {
+    float dummy_float=3.14; //dummy float variable
     const std::vector<int> sequence {-70, 89, 86, 91, 18, -85, 98, -83, -31, 98 };
     const std::vector<int> sorted { -85, -83, -70, -31, 18, 86, 89, 91, 98, 98 };
     

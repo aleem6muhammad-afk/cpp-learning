@@ -1,5 +1,5 @@
+//This is a array based program.
 #include <iostream>
-
 #include "lab_array.h"
 
 int main()
